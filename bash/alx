@@ -1,6 +1,11 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 ALX
+=======
+
+echo "ALX"
+>>>>>>> 0f720db3461648967fb22654f23625e2ec83745e
 =======
 
 echo "ALX"
